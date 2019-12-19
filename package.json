@@ -1,0 +1,25 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "application to eat burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanhalupczynski/eat-da-burger.git"
+  },
+  "author": "Sean Halupczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanhalupczynski/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/seanhalupczynski/eat-da-burger#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
